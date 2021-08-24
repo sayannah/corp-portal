@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cts.classifiedsportal.ClassifiedsPortalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.733 s - in com.cts.classifiedsportal.ClassifiedsPortalApplicationTests
